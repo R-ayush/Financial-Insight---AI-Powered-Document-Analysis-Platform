@@ -100,7 +100,7 @@ python app.py
 
 Navigate to the frontend directory:
 ```bash
-cd "B3-Developing-Named-Entity-Recognition-NER-Models-for-Financial-Data-Extraction--Financial_Insight"
+cd "Financial-Insight---AI-Powered-Document-Analysis-Platform"
 ```
 
 Install dependencies:
